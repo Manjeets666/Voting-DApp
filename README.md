@@ -9,7 +9,7 @@ A Decentralized Ethereum Voting Application Demo
     Metamask: https://metamask.io/
 
 # Step 1. Clone the project
-    https://github.com/Manjeets666/Voting-DApp
+    git clone https://github.com/Manjeets666/Voting-DApp
 # Step 2. Install dependencies
 
     $ cd Voting-DApp
