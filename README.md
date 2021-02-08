@@ -3,13 +3,13 @@ A Decentralized Ethereum Voting Application Demo
 
 # Dependencies 
 
-    NPM: https://nodejs.org
-    Truffle: https://github.com/trufflesuite/truffle
-    Ganache: http://truffleframework.com/ganache/
-    Metamask: https://metamask.io/
+    NPM: (https://nodejs.org)
+    Truffle: (https://github.com/trufflesuite/truffle)
+    Ganache: (http://truffleframework.com/ganache/)
+    Metamask: (https://metamask.io/)
 
 # Step 1. Clone the project
-    git clone https://github.com/Manjeets666/Voting-DApp
+    git clone (https://github.com/Manjeets666/Voting-DApp)
 # Step 2. Install dependencies
 
     $ cd Voting-DApp
@@ -29,4 +29,4 @@ A Decentralized Ethereum Voting Application Demo
 
 # Step 6. Run the Front End Application
 
-    $ npm run dev Visit this URL in your browser: http://localhost:3000
+    $ npm run dev Visit this URL in your browser: (http://localhost:3000)
