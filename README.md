@@ -27,7 +27,7 @@ A Decentralized Ethereum Voting Application Demo
 # Step 5. Configure Metamask
 
     Unlock Metamask
-    Connect metamask to your local Etherum blockchain provided by Ganache.
+    Connect metamask to your local Ethereum blockchain provided by Ganache.
     Import an account using the private key provided by Ganache.
 
 # Step 6. Run the Front End Application
