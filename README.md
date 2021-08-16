@@ -1,6 +1,9 @@
 # VOTING DAPP DEMO
 A Decentralized Ethereum Voting Application Demo
 
+![image](https://user-images.githubusercontent.com/54723481/129544369-c8c73c2a-03fb-4525-b72e-481e7db56987.png)
+
+
 # Dependencies 
 
    NPM: https://nodejs.org
